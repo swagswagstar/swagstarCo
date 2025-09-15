@@ -1,2 +1,2 @@
 # swagstarCo
-swagstarCo website
+swagstarCo temporary placeholder website
